@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 120">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#e9c98b"/><stop offset="1" stop-color="#fff0c9"/></linearGradient></defs>
+<g fill="none" stroke="url(#g)" stroke-width="3" stroke-linecap="round">
+<path d="M25 72 Q72 35 119 72 Q166 109 213 72"/><path d="M40 86 Q82 58 124 86 Q166 114 208 86"/>
+<path d="M118 17 Q97 39 118 59 Q139 39 118 17Z"/><path d="M118 27V61"/>
+</g>
+<text x="238" y="57" fill="#fff4dc" font-family="Georgia,serif" font-size="34" letter-spacing="1">BEAUTY OF</text>
+<text x="238" y="91" fill="url(#g)" font-family="Georgia,serif" font-size="31" font-style="italic" letter-spacing="2">BEACHES</text>
+</svg>
